@@ -1,5 +1,4 @@
-#!/root/.nvm/versions/node/v20.11.1/bin/node
-/*#!/usr/bin/node*/
+#!/usr/bin/node
 /*
     Print a square with the character #
     
